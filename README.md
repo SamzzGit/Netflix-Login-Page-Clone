@@ -12,8 +12,7 @@ A responsive clone of the **Netflix login page** created using **HTML**, **CSS**
 
 ## Preview
 
-![Netflix Login Page](https://github.com/user-attachments/assets/0dd0334f-1ffa-4c20-8df9-b0daf2207be5)
-
+![Netflix Login Page](https://github.com/user-attachments/assets/3c0e585c-d824-4b6c-8887-3fb95eeba454)
 
 
 ## Technologies Used
